@@ -9,7 +9,7 @@ const Footer = () => {
         <Grid container spacing={4}>
           <Grid item xs={12} md={4}>
             <Typography variant="h6" gutterBottom>
-              Finsweet
+              Chatbot
             </Typography>
             <Typography variant="body1">
               We are always open to discuss your project and improve your online presence.
@@ -63,15 +63,7 @@ const Footer = () => {
               <Link href="#" color="inherit" sx={{ margin: '0 1rem' }}>
                 Features
               </Link>
-              <Link href="#" color="inherit" sx={{ margin: '0 1rem' }}>
-                Pricing
-              </Link>
-              <Link href="#" color="inherit" sx={{ margin: '0 1rem' }}>
-                FAQ
-              </Link>
-              <Link href="#" color="inherit" sx={{ margin: '0 1rem' }}>
-                Blog
-              </Link>
+             
             </Box>
           </Grid>
         </Grid>

@@ -1,7 +1,7 @@
 import './App.css';
-import Chatbot from './component/Chatbot';
 import Footer from './component/Footer';
 import MainPage from './component/MainPage';
+import Chatbot from './component/Chatbot';
 function App() {
   return (
     <div className="App">
@@ -13,3 +13,9 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+

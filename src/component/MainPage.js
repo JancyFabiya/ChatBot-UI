@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './Navbar';
 import { Box, Typography, Button, Grid } from '@mui/material';
-import ExampleImage from '../assets/robot.png'; // Adjust the path as necessary
+import ExampleImage from '../assets/robot.png'; 
 
 function MainPage() {
   return (
